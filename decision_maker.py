@@ -4,7 +4,7 @@ decisions = []
 
 while True:
 
-  choice = input("type a decision; type DONE to finish: ")
+  choice = input("type a decision; type DONE to decide: ")
   if choice == "DONE":
     break
   decisions.append(choice)
